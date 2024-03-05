@@ -27,8 +27,8 @@ Let's collaborate to build innovative web solutions that make a difference!
 ### 📫 Connect With Me
 
 - Email: alexsmith@example.com
-- LinkedIn: [linkedin.com/in/alexsmithdev](https://www.linkedin.com/in/alexsmithdev/)
-- GitHub: [github.com/alexsmithdev](https://github.com/alexsmithdev)
+- LinkedIn: [linkedin.com/in/alexsmithdev](https://www.linkedin.com/in/bigredheart/)
+- GitHub: [github.com/alexsmithdev](https://github.com/bigredheart)
 
 ### 📝 Latest Blog Posts
 
@@ -41,13 +41,13 @@ Let's collaborate to build innovative web solutions that make a difference!
 ### 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexsmithdev&show_icons=true&hide_border=true&theme=tokyonight" alt="Alex Smith's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=bigredheart&show_icons=true&hide_border=true&theme=tokyonight" alt="Bigredheart's GitHub Stats">
 </div>
 
 *Note: The languages and tools mentioned are a representation of my frequent use on GitHub and do not necessarily indicate my skill level.*
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsmithdev&layout=compact&theme=tokyonight" alt="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigredheart&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </div>
 
 ---
