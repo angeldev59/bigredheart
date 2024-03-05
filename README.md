@@ -26,9 +26,9 @@ Let's collaborate to build innovative web solutions that make a difference!
 
 ### 📫 Connect With Me
 
-- Email: alexsmith@example.com
-- LinkedIn: [linkedin.com/in/alexsmithdev](https://www.linkedin.com/in/bigredheart/)
-- GitHub: [github.com/alexsmithdev](https://github.com/bigredheart)
+- Email: thai.brian0413@gmail.com
+- LinkedIn: [linkedin.com/in/bigredheart](https://www.linkedin.com/in/bigredheart/)
+- GitHub: [github.com/bigredheart](https://github.com/bigredheart)
 
 ### 📝 Latest Blog Posts
 
