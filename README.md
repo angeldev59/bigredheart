@@ -2,7 +2,7 @@
 
 **`Full-Stack Web Developer`**
 
-Hey there! I'm Alex Smith, a forward-thinking Full-Stack Web Developer with a passion for crafting dynamic, responsive, and user-friendly web applications. My journey in web development has led me to specialize in React, Next.js, and Tailwind CSS, creating streamlined, modern web experiences that stand out in the digital landscape.
+Hey there! I'm Full-Stack Web Developer with a passion for crafting dynamic, responsive, and user-friendly web applications. My journey in web development has led me to specialize in React, Next.js, and Tailwind CSS, creating streamlined, modern web experiences that stand out in the digital landscape.
 
 👨‍💻 With a knack for both front-end and back-end technologies, I'm adept at transforming ideas into fully functional and aesthetically pleasing web applications. I'm all about leveraging the latest technologies to solve real-world problems, improve user engagement, and drive business success.
 
