@@ -29,26 +29,5 @@ Let's collaborate to build innovative web solutions that make a difference!
 - Email: thai.brian0413@gmail.com
 - GitHub: [github.com/bigredheart](https://github.com/bigredheart)
 
-### 📝 Latest Blog Posts
-
-- "Exploring Server-Side Rendering with Next.js"
-- "Building Responsive UIs with Tailwind CSS"
-- "State Management in React Apps with Redux Toolkit"
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bigredheart&show_icons=true&hide_border=true&theme=tokyonight" alt="Bigredheart's GitHub Stats">
-</div>
-
-*Note: The languages and tools mentioned are a representation of my frequent use on GitHub and do not necessarily indicate my skill level.*
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigredheart&layout=compact&theme=tokyonight" alt="Most Used Languages">
-</div>
-
----
 
 💡 I'm keen on contributing to open source projects and always looking for new challenges. If you're interested in collaborating or just want to chat, feel free to reach out!
