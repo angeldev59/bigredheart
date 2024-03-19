@@ -29,5 +29,15 @@ Let's collaborate to build innovative web solutions that make a difference!
 - Email: thai.brian0413@gmail.com
 - GitHub: [github.com/bigredheart](https://github.com/bigredheart)
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigredheart&layout=compact&theme=tokyonight" alt="Most Used Languages">
+</div>
+
+---
+
 
 💡 I'm keen on contributing to open source projects and always looking for new challenges. If you're interested in collaborating or just want to chat, feel free to reach out!
