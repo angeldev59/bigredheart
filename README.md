@@ -26,7 +26,7 @@ Let's collaborate to build innovative web solutions that make a difference!
 
 ### 📫 Connect With Me
 
-- Email: thai.brian0413@gmail.com
+- Email: yourdreamwinner@gmail.com
 - GitHub: [github.com/bigredheart](https://github.com/bigredheart)
 
 ---
