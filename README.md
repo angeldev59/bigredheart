@@ -1,4 +1,20 @@
-## Perfil de estudiante de **David** en el *IES Castelar*  
+<div align="center">
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" /><img src="https://img.icons8.com/color/30/000000/star--v1.png"/>
+ </div><br>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=omololevy&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="omololevy" /> </p>
+
+
+<!-- GREETING  -->
+<h3 align="center">
+  Hello! Welcome to my profile.<br> *****
+             
+
+<p align="center">
+  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20cotechlevy@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+</p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika&size=15&duration=8000&pause=1000&color=79FF97&vCenter=true&random=false&width=435&height=16&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web.)
   
