@@ -63,8 +63,6 @@
 
 <p align="left"> <img src="https://img.shields.io/github/stars/davidbc01?color=black&label=Estrellas&style=flat" alt="davidbc01" /> </p>
 
-⚡ **Mi otra cuenta: [@dkszdp](https://github.com/bigredheart)**
-
 <hr>
 
 <p align="center"><strong>©️ Profile README design by <i>davidbc01</i> ⚡</strong></p>
