@@ -7,9 +7,46 @@
 ## Habilidades :computer:
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,angular,astro,vue,ts,jquery,java,spring,maven,php,laravel,py,bash,powershell,mysql,mongodb,linux,md,git,github,docker,postman,regex,vscode,idea,vercel,netlify&theme=dark&perline=16" alt="davidbc01" /></p>
 
-## Estadísticas :mortar_board:  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=davidbc01&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=es&include_all_commits=false&count_private=true" alt="davidbc01" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbc01&layout=compact&theme=dark&locale=es&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&custom_title=Lenguajes+Más+Usados+de+David" alt="davidbc01" /> &nbsp;
+## 📊 GitHub Statistics
+<table>
+<tr>
+<td>
+<a href="https://github.com/omololevy/omololevy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=omololevy&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
+</td>
+<td>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omololevy&theme=highcontrast&layout=compact" />
+  </a>
+</td>
+</tr>
+
+<tr>
+<td>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omololevy"/>
+</td>
+<td>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omololevy"/>
+</td>
+</tr>
+
+<tr>
+<tr>
+        <th colspan="7"><a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+      </tr>
+<td align="center">
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omololevy&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+
+
+</td>
+<td align="center">
+<p align="center">
+</p>
+            <img align="right" alt="Developer Levy Omolo" src="code.gif" width="350" height="190" />
+</td>
+</tr>
+</table>
 
 ## Trofeos :trophy:
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=davidbc01&no-frame=true&theme=gitdimmed&column=-1" alt="davidbc01" /></p>
