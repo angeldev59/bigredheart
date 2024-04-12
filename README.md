@@ -18,10 +18,10 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika&size=15&duration=8000&pause=1000&color=79FF97&vCenter=true&random=false&width=435&height=16&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web.)
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourdream&label=Visitas%20al%20perfil&color=000000&style=flat" alt="davidbc01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourdream&label=Visitas%20al%20perfil&color=000000&style=flat" alt="yourdream" /> </p>
 
 ## Habilidades :computer:
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,angular,astro,vue,ts,jquery,java,spring,maven,php,laravel,py,bash,powershell,mysql,mongodb,linux,md,git,github,docker,postman,regex,vscode,idea,vercel,netlify&theme=dark&perline=16" alt="davidbc01" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,angular,astro,vue,ts,jquery,java,spring,maven,php,laravel,py,bash,powershell,mysql,mongodb,linux,md,git,github,docker,postman,regex,vscode,idea,vercel,netlify&theme=dark&perline=16" alt="yourdream" /></p>
 
 ## 📊 GitHub Statistics
 <table>
@@ -59,10 +59,10 @@
 </table>
 
 ## Trofeos :trophy:
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=bigredheart&no-frame=true&theme=gitdimmed&column=-1" alt="davidbc01" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=bigredheart&no-frame=true&theme=gitdimmed&column=-1" alt="yourdream" /></p>
 
-<p align="left"> <img src="https://img.shields.io/github/stars/davidbc01?color=black&label=Estrellas&style=flat" alt="davidbc01" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/stars/yourdream?color=black&label=Estrellas&style=flat" alt="yourdream" /> </p>
 
 <hr>
 
-<p align="center"><strong>©️ Profile README design by <i>davidbc01</i> ⚡</strong></p>
+<p align="center"><strong>©️ Profile README design by <i>yourdream</i> ⚡</strong></p>
