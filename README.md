@@ -38,12 +38,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omololevy&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
-
-</td>
-<td align="center">
-<p align="center">
-</p>
-            <img align="right" alt="Developer Levy Omolo" src="code.gif" width="350" height="190" />
 </td>
 </tr>
 </table>
